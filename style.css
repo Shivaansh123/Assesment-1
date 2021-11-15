@@ -1,0 +1,24 @@
+
+body{
+    
+    font-size: 20px;
+    text-align: center;
+    text-size-adjust: 30px;
+    background-color: chartreuse;
+     
+}
+
+form{
+    width: 800px;
+    height: 980px;
+    background-color: rgb(83, 127, 247);
+    border-radius: 30px;
+    margin-left: 350px ;
+    margin-top: 80px;
+} 
+button{
+    color: black;
+    
+}
+
+
